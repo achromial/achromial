@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @achromial
+- 👀 I’m interested in crazy styles and unexplored problem solving
+- 🌱 I’m currently re-learning Typescript & Angular
+- 💞️ I’m looking to collaborate on helping make sense of spaghetti
+- 📫 How to reach me: message me!
