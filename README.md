@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @achromial
-- 👀 I’m interested in crazy animations & styles
-- 🌱 I’m currently re-learning Typescript & Angular
-- 💞️ I’m looking to collaborate on helping make sense of spaghetti
+- 👋 Hi, I’m Jeremy McAllister
+- 👀 I’m interested in crazy animations + styles
+- 🌱 Currently re-learning Typescript + Angular
+- 🏹 Aiming at the mark between performance + panache
 - 📫 How to reach me: message me!
